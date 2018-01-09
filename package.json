@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sebko/sentiment-analysis/issues"
   },
-  "homepage": "https://github.com/sebko/sentiment-analysis#readme"
+  "homepage": "https://github.com/sebko/sentiment-analysis#readme",
+  "dependencies": {
+    "micro": "^9.1.0"
+  }
 }
